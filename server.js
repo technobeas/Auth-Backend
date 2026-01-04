@@ -13,6 +13,7 @@ app.use(
     origin: [
       "http://localhost:5173",
       "https://frontend-gwtmpi8as-technobeas-projects.vercel.app",
+      "https://frontend-nflcvfy8c-technobeas-projects.vercel.app",
     ],
     credentials: true,
   })
