@@ -15,6 +15,7 @@ app.use(
       "https://frontend-gwtmpi8as-technobeas-projects.vercel.app",
       "https://frontend-nflcvfy8c-technobeas-projects.vercel.app",
       "https://frontend-technobeas-technobeas-projects.vercel.app",
+      "https://frontend-git-main-technobeas-projects.vercel.app",
     ],
     credentials: true,
   })
